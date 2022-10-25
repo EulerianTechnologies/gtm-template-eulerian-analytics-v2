@@ -15,5 +15,5 @@
 homepage: "https://eulerian.com"
 documentation: "https://github.com/EulerianTechnologies/gtm-template-eulerian-analytics-v2/tree/main#readme"
 versions:
-  - sha: 7f107bad6d2365436d50357c776f1176d98c7d06
+  - sha: 37041b2a96f768c6d4cd753fedbcc73147478c55
     changeNotes: Initial Version
