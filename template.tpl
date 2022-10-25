@@ -5,6 +5,7 @@ Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
 
+
 ___INFO___
 
 {
@@ -1712,6 +1713,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 03/12/2020 à 14:05:46
+Created on 25/10/2022 à 14:05:46
 
 
