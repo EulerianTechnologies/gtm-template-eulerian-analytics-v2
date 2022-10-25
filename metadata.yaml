@@ -13,7 +13,7 @@
 # limitations under the License.
 
 homepage: "https://eulerian.com"
-documentation: "https://github.com/EulerianTechnologies/gtm-template-eulerian-analytics-v2/blob/main/README.md"
+documentation: "https://github.com/EulerianTechnologies/gtm-template-eulerian-analytics-v2/tree/main#readme"
 versions:
   - sha: 1cf04659d6e02a75b868c7379600a0459f6ba5c8
     changeNotes: Initial Version
